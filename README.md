@@ -1,7 +1,4 @@
-# My Portfolio
-A showcase of my work from the Bloc program
-
-***Currently under construction***
+# Portfolio Practice
 
 Practiced:
 - Leveraging user stories and acceptance criteria to turn an idea into code
